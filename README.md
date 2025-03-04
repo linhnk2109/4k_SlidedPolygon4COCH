@@ -15,10 +15,10 @@ main.jl: These files are included in main.jl to run the algorithms.
 
 **Run the programs**
 - Open a terminal and go to the directory containing the code.
-> julia main.jl
+>        julia main.jl
 
 - Run Algorithms in parallel mode.
-> julia -t numberOfThreads main.jl
+>        julia -t numberOfThreads main.jl
 
 **Note**
 Creat a file "result" in the directory containing the codes.
